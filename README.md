@@ -174,10 +174,9 @@ We built a fully reusable research framework:
 ## 📁 Disclaimer
 
 - All data is from **public sources or Coinglass API access**
-- No confidential information used
 - Results are for **research purposes only**
 - For those who may want to replicate, please reach out to Coinglass team and ask for APIKEY.
-
+- For the dataset in this research, please reach out to Li (ldai26@gsb.columbia.edu) or Peter (gshen26@gsb.columbia.edu) for more info.
 ---
 
 ## 👥 Authors
